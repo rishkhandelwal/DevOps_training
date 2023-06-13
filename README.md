@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/work-with-rishabh/40de6500-40c5-4002-8c55-dcfd9f292724/acbb7f2c-3f7a-4633-abd1-a489c0695875/_apis/work/boardbadge/b6056f52-d5d6-43a5-be6c-fcd8becf64ac)](https://dev.azure.com/work-with-rishabh/40de6500-40c5-4002-8c55-dcfd9f292724/_boards/board/t/acbb7f2c-3f7a-4633-abd1-a489c0695875/Microsoft.RequirementCategory)
 # DevOps_training
